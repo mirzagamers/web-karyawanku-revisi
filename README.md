@@ -21,6 +21,24 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+
+- ## bagian login
+![0](https://github.com/mirzagamers/web-absensi/assets/172612996/99af1638-444e-4ccb-8a91-787127681b86)
+bagian login
+
+## bagian dashboard
+![1](https://github.com/mirzagamers/web-absensi/assets/172612996/fd1b592e-6cb3-49ab-b8f4-0fd87b1bc133)
+
+## bagian karyawan 
+![2](https://github.com/mirzagamers/web-absensi/assets/172612996/e82d389a-0ed6-42c2-805e-5e3199137a49)
+
+## bagian jabatan
+![3](https://github.com/mirzagamers/web-absensi/assets/172612996/fa3b2516-c157-43af-83c3-d985e5791173)
+
+## bagian slip gaji
+![4](https://github.com/mirzagamers/web-absensi/assets/172612996/3de5d8a1-0535-4ebb-804e-db8305fab13d)
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
