@@ -38,6 +38,11 @@ bagian login
 ## bagian slip gaji
 ![4](https://github.com/mirzagamers/web-absensi/assets/172612996/3de5d8a1-0535-4ebb-804e-db8305fab13d)
 
+![WhatsApp Image 2024-06-29 at 00 00 14](https://github.com/mirzagamers/web-karyawanku-revisi/assets/172612996/9e1dc605-669f-4c7a-abca-e9e8c2365393)
+
+![WhatsApp Image 2024-06-28 at 23 59 31](https://github.com/mirzagamers/web-karyawanku-revisi/assets/172612996/82e1ba11-7936-493c-9252-acc037d22e2f)
+
+
 
 ## Learning Laravel
 
